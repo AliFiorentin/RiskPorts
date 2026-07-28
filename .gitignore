@@ -1,0 +1,20 @@
+# R
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# Script outputs written to the working directory
+*.doc
+base_pareada.dta
+EstDescritiva.doc
+
+# Stata
+*.smcl
+output/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+Rplots.pdf
