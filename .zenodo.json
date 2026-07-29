@@ -1,0 +1,50 @@
+{
+  "title": "RiskPorts: replication data and code for \"Climate Variables and the Costs Generated for the Port Sector: The Case of a Port in Southern Brazil\"",
+  "description": "<p>Replication package for a study estimating the operational delays and the opportunity cost caused by weather-related stoppages at the S&atilde;o Francisco do Sul port complex, Santa Catarina, Brazil.</p><p>Contains the analysis dataset (4,332 vessel calls, 2018-2021) combining port operations records with meteorological and wave variables matched to each call, together with the R and Stata code that reproduces the tables and figures of the paper. Identification relies on propensity score matching followed by regression with meteorological controls.</p><p>The port operations records were originally extracted from the public waterway statistics of the Brazilian National Waterway Transportation Agency (ANTAQ). That extraction is no longer reproducible from the source: ANTAQ has restructured its statistical system and discontinued publication of the port revenue variable used in the opportunity cost estimates. Meteorological series were provided by EPAGRI/CIRAM; the values matched to each vessel call are included here, while the original station-level series are not redistributed and may be requested from that institution.</p>",
+  "upload_type": "dataset",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "language": "eng",
+  "keywords": [
+    "port economics",
+    "climate variability",
+    "port downtime",
+    "opportunity cost",
+    "propensity score matching",
+    "Brazil"
+  ],
+  "creators": [
+    {
+      "name": "Teixeira, Gibran da Silva",
+      "affiliation": "Universidade Federal do Rio Grande (FURG), Rio Grande, RS, Brazil"
+    },
+    {
+      "name": "Barbosa, Marcio Nora",
+      "affiliation": "Universidade Federal do Rio Grande (FURG), Rio Grande, RS, Brazil"
+    },
+    {
+      "name": "Abdallah, Patrizia Raggi",
+      "affiliation": "Universidade Federal do Rio Grande (FURG), Rio Grande, RS, Brazil"
+    },
+    {
+      "name": "Nicolodi, Joao Luiz",
+      "affiliation": "Universidade Federal do Rio Grande (FURG), Rio Grande, RS, Brazil"
+    },
+    {
+      "name": "Klein, Antonio Henrique da Fontoura",
+      "affiliation": "Universidade Federal de Santa Catarina (UFSC), Florianopolis, SC, Brazil"
+    },
+    {
+      "name": "Santos, Ana Carolina Fonte Boa Moura",
+      "affiliation": "Universidade Federal do Rio Grande (FURG), Rio Grande, RS, Brazil"
+    },
+    {
+      "name": "Lima, Gabriela dos Passos",
+      "affiliation": "Universidade Federal do Rio Grande (FURG), Rio Grande, RS, Brazil"
+    },
+    {
+      "name": "Fiorentin, Alisson Tallys Geraldo",
+      "affiliation": "Universidade Federal do Rio Grande do Sul (UFRGS), Porto Alegre, RS, Brazil"
+    }
+  ]
+}
