@@ -1,0 +1,47 @@
+cff-version: 1.2.0
+message: "If you use this dataset or code, please cite it as below."
+title: "RiskPorts: replication data and code for \"Climate Variables and the Costs Generated for the Port Sector: The Case of a Port in Southern Brazil\""
+abstract: >-
+  Replication package for a study estimating the operational delays and the
+  opportunity cost caused by weather-related stoppages at the Sao Francisco do
+  Sul port complex, Santa Catarina, Brazil. Contains the analysis dataset of
+  4,332 vessel calls between 2018 and 2021, combining port operations records
+  with meteorological and wave variables matched to each call, together with the
+  R and Stata code that reproduces the tables and figures of the paper.
+type: dataset
+version: 1.0.2
+date-released: "2026-07-29"
+license: CC-BY-4.0
+repository-code: "https://github.com/AliFiorentin/RiskPorts"
+keywords:
+  - port economics
+  - climate variability
+  - port downtime
+  - opportunity cost
+  - propensity score matching
+  - Brazil
+authors:
+  - family-names: Teixeira
+    given-names: "Gibran da Silva"
+    affiliation: "Universidade Federal do Rio Grande (FURG), Rio Grande, RS, Brazil"
+  - family-names: Barbosa
+    given-names: "Marcio Nora"
+    affiliation: "Universidade Federal do Rio Grande (FURG), Rio Grande, RS, Brazil"
+  - family-names: Abdallah
+    given-names: "Patrizia Raggi"
+    affiliation: "Universidade Federal do Rio Grande (FURG), Rio Grande, RS, Brazil"
+  - family-names: Nicolodi
+    given-names: "Joao Luiz"
+    affiliation: "Universidade Federal do Rio Grande (FURG), Rio Grande, RS, Brazil"
+  - family-names: Klein
+    given-names: "Antonio Henrique da Fontoura"
+    affiliation: "Universidade Federal de Santa Catarina (UFSC), Florianopolis, SC, Brazil"
+  - family-names: Santos
+    given-names: "Ana Carolina Fonte Boa Moura"
+    affiliation: "Universidade Federal do Rio Grande (FURG), Rio Grande, RS, Brazil"
+  - family-names: Lima
+    given-names: "Gabriela dos Passos"
+    affiliation: "Universidade Federal do Rio Grande (FURG), Rio Grande, RS, Brazil"
+  - family-names: Fiorentin
+    given-names: "Alisson Tallys Geraldo"
+    affiliation: "Universidade Federal do Rio Grande do Sul (UFRGS), Porto Alegre, RS, Brazil"
