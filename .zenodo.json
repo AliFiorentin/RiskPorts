@@ -16,35 +16,43 @@
   "creators": [
     {
       "name": "Teixeira, Gibran da Silva",
-      "affiliation": "Universidade Federal do Rio Grande (FURG), Rio Grande, RS, Brazil"
+      "affiliation": "Universidade Federal do Rio Grande (FURG), Rio Grande, RS, Brazil",
+      "orcid": "0000-0003-1420-1260"
     },
     {
       "name": "Barbosa, Marcio Nora",
-      "affiliation": "Universidade Federal do Rio Grande (FURG), Rio Grande, RS, Brazil"
+      "affiliation": "Universidade Federal do Rio Grande (FURG), Rio Grande, RS, Brazil",
+      "orcid": "0000-0003-0621-0706"
     },
     {
       "name": "Abdallah, Patrizia Raggi",
-      "affiliation": "Universidade Federal do Rio Grande (FURG), Rio Grande, RS, Brazil"
+      "affiliation": "Universidade Federal do Rio Grande (FURG), Rio Grande, RS, Brazil",
+      "orcid": "0000-0001-6417-7524"
     },
     {
       "name": "Nicolodi, Joao Luiz",
-      "affiliation": "Universidade Federal do Rio Grande (FURG), Rio Grande, RS, Brazil"
+      "affiliation": "Universidade Federal do Rio Grande (FURG), Rio Grande, RS, Brazil",
+      "orcid": "0000-0003-3413-9863"
     },
     {
       "name": "Klein, Antonio Henrique da Fontoura",
-      "affiliation": "Universidade Federal de Santa Catarina (UFSC), Florianopolis, SC, Brazil"
+      "affiliation": "Universidade Federal de Santa Catarina (UFSC), Florianopolis, SC, Brazil",
+      "orcid": "0000-0002-2565-8891"
     },
     {
       "name": "Santos, Ana Carolina Fonte Boa Moura",
-      "affiliation": "Universidade Federal do Rio Grande (FURG), Rio Grande, RS, Brazil"
+      "affiliation": "Universidade Federal do Rio Grande (FURG), Rio Grande, RS, Brazil",
+      "orcid": "0009-0009-8920-5072"
     },
     {
       "name": "Lima, Gabriela dos Passos",
-      "affiliation": "Universidade Federal do Rio Grande (FURG), Rio Grande, RS, Brazil"
+      "affiliation": "Universidade Federal do Rio Grande (FURG), Rio Grande, RS, Brazil",
+      "orcid": "0009-0001-3692-4059"
     },
     {
       "name": "Fiorentin, Alisson Tallys Geraldo",
-      "affiliation": "Universidade Federal do Rio Grande do Sul (UFRGS), Porto Alegre, RS, Brazil"
+      "affiliation": "Universidade Federal do Rio Grande do Sul (UFRGS), Porto Alegre, RS, Brazil",
+      "orcid": "0009-0002-7233-3640"
     }
   ]
 }
